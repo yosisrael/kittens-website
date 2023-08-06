@@ -1,0 +1,10 @@
+.AnimalFood {
+    width: 150px;
+    border: 1px solid;
+    display: inline-block;
+    text-align: center;
+}
+
+.AnimalFood>img {
+    width: 100px;
+}

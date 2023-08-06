@@ -1,0 +1,21 @@
+.Kitten {
+    border: 1px solid;
+    display: inline-block;
+    margin: 20px;
+}
+
+.Kitten>h1 {
+    color: green;
+}
+
+.Kitten>span {
+    color: red;
+}
+
+.Kitten>.cool {
+    color: darkcyan;
+}
+
+.Kitten>img {
+    width: 100px;
+}
